@@ -8,4 +8,4 @@
   - Shannen (Xibalba)
   
   <center><img src="the-great-wave.png" /></center>
-  <h5><i>The Great Wave Off Kanagawa</i> - <b>Katsushika Hokusai</b>
+  <h6><i>The Great Wave Off Kanagawa</i> - <b>Katsushika Hokusai</b></h6>
