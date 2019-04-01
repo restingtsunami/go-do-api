@@ -7,5 +7,5 @@
   
   - Shannen (Xibalba)
   
-  <center><img src="http://www.restingtsunami.tk/23/img/the-great-wave.png" /></center>
-  [i]The Great Wave Off Kanagawa[/i] - [b]Katsushika Hokusai[/b]
+  <center><img src="restingtsunami.tk/23/img/the-great-wave.png" /></center>
+  <i>The Great Wave Off Kanagawa</i> - [b]Katsushika Hokusai[/b]
