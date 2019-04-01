@@ -7,4 +7,4 @@
   
   - Shannen (Xibalba)
   
-  <center><img src="https://photos.app.goo.gl/8PXhdfbBa17zvmZ47" /></center>
+  <center><img src="the-great-wave.png" /></center>
